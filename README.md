@@ -15,3 +15,8 @@ https://github.com/Eduardo-Miguel-Bennaton/Portfolio-V2.git](https://github.com/
 
 2. Open the repository and run it with live server
 3. Let the code run!
+
+<br>
+<h2>Visuals</h2>
+
+<img width="1119" alt="Picture" src="https://github.com/Eduardo-Miguel-Bennaton/world-cup-system/assets/122058309/cfa08508-9f44-46b1-b3f8-a77da8cbfbb6">
